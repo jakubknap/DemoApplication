@@ -1,2 +1,2 @@
 ﻿# DemoApplication
-edycja z gui github
+edycja z gui github druga
